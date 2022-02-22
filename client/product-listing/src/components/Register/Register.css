@@ -1,0 +1,30 @@
+.form-container{
+    padding :20px 40px;
+    text-align: center;
+
+    
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+}
+.form-input{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+   
+}
+.buttons{
+    margin-top: 40px;
+    text-align: start;
+}
+.buttons button{
+        width: 80px;
+        height: 40px;
+        padding: 5px 10px;
+        border: none;
+        border-radius:8px;
+        font-weight: bold;
+}
+.btn-clear{
+    margin-left: 25px;
+}
